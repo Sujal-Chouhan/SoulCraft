@@ -21,6 +21,6 @@ https://www.notion.so/Launchpad-70f61667762f4a67a88a6611819b638c
 - [ ] Armour (Practice)
 - [ ] Make the table a block (entity)
 - [ ] Add priest to village
-- [ ] Add soulds counter
+- [ ] Add souls counter
 - [ ] Enchantments
 - [ ] (Whenever necessary or possible) Make the weapons starting weapons
